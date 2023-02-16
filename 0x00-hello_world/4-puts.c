@@ -1,10 +1,9 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
- * main - void
+ * main  prints "Programming is like building a multilingual puzzle.
  * 
- * return: return 0 if successful or 1 if failed
+ * Return: always 0.
  */
 
 int main(void)
