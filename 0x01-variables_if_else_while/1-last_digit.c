@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - prints a text accoding number
+ * main - Prints a text accoding number
  * Returns: Always (success)
  *
  */
