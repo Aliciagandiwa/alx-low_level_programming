@@ -3,13 +3,10 @@
 #include <time.h>
 
 #include <stdio.h>
-
 /**
- * main - Prints a text accoding number
- * Returns: Always (success)
- *
+ * main - Prints a text according number
+ * Returns: Always 0 (success)
  */
-
 int main(void)
 {
 	int n, lastd;
