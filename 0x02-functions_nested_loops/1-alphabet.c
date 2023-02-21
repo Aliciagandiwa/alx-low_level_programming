@@ -1,17 +1,18 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - print the alphabet
  *
- * Return: Always 0
+ * Return: void
  */
-int main(void)
+void print_alphabet(void)
 {
 
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
-	putchar(c);
-	putchar('\n');
-	return (0);
+	{
+	_putchar(c);
+	}
+	_putchar('\n');
 }
