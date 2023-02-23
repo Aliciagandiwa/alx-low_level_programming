@@ -4,7 +4,7 @@
  * largest_number - returns the largest number of 3 numbers
  * @a: First integer
  * @b: Second integer
- * @c: Thirf integer
+ * @c: Third integer
  * Return: Largest number
  */
 int Largest_number(int a, int b, int c)
