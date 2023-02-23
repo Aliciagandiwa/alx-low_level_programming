@@ -1,13 +1,11 @@
 #include "main.h"
 
 /**
- * _isupper - Checks id letter is upper
- * @x: The number to be checked
- * Reurn: 1 for upper letter or 0 for otherwise
+ * _isupper - Check is a letter is upper
+ * @x: The letter to be checked
+ * Return: 1 for upper or 0 for otherwise
  */
-
 int _isupper(int x)
-
 {
 	if (x >= 65 && x <= 90)
 	{
